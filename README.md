@@ -1,16 +1,20 @@
-# chatbot_app
+# Chatbot App
 
-A new Flutter project.
+This project is for test purposes only.
 
-## Getting Started
+## How to run flutter application
 
-This project is a starting point for a Flutter application.
+### Shell ###
+In order to run flutter application. Go to root folder of the application and execute next command:
+```shell
+$ cd flutter_project
+$ flutter run
+```
+By default it will run application via web browser. In order to run Android or iOS, you will need some additional tool/s. 
 
-A few resources to get you started if this is your first Flutter project:
+### Android Studio ###
+Open the root of the android project located under "Android".
+It will automatically run gradle and download all necessary dependencies.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### iOS ### 
+This requires investigation.
